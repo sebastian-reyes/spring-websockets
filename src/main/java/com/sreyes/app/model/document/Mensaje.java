@@ -13,6 +13,8 @@ public class Mensaje implements Serializable{
 
     private String texto;
     private Long fecha;
+    private String username;
+    private String tipo;
     /**
 	 * 
 	 */
