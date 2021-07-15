@@ -15,6 +15,7 @@ public class Mensaje implements Serializable{
     private Long fecha;
     private String username;
     private String tipo;
+    private String color;
     /**
 	 * 
 	 */
